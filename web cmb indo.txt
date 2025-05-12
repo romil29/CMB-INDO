@@ -1,0 +1,95 @@
+﻿<!DOCTYPE html>
+<html lang="id">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>CMB INDO – Clan Master Brotherhood</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <nav>
+            <ul>
+                <li><a href="#home">Beranda</a></li>
+                <li><a href="#anggota">Anggota Clan</a></li>
+                <li><a href="#jadwal">Jadwal War</a></li>
+                <li><a href="#base">Pamer Base</a></li>
+                <li><a href="#statistik">Statistik War</a></li>
+                <li><a href="#halloffame">Anggota Teladan</a></li>
+                <li><a href="#join">Join Clan</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <section id="home">
+        <h1>CMB INDO – Clan Master Brotherhood</h1>
+        <h2>Brotherhood in Battle. Kekompakan adalah senjata utama kami.</h2>
+        <p>Selamat datang di markas resmi CMB INDO, sebuah keluarga dalam Clash of Clans. Kami adalah pejuang, pemimpin, dan saudara yang bertarung bersama demi kemenangan dan kekompakan.</p>
+        <p>Website ini dibuat untuk menyatukan informasi penting bagi para anggota dan calon pejuang baru kami.</p>
+    </section>
+
+    <section id="anggota">
+        <h1>Daftar Anggota CMB INDO</h1>
+        <p>Berikut adalah para pejuang aktif yang menjaga kehormatan clan CMB INDO:</p>
+        <ul>
+            <li>Bg romil th12</li>
+            <li>Aubie RH th9</li>
+        </ul>
+    </section>
+
+    <section id="jadwal">
+        <h1>Jadwal War Clan</h1>
+        <p>Berikut adalah jadwal war mingguan:</p>
+        <ul>
+            <li>Senin – War Reguler</li>
+            <li>Kamis – Friendly War</li>
+            <li>Sabtu – War Liga (CWL)</li>
+        </ul>
+        <p>Pastikan semua anggota online 1 jam sebelum war dimulai.</p>
+        <p>📌 Update jadwal akan diumumkan lewat WhatsApp grup dan halaman ini.</p>
+    </section>
+
+    <section id="base">
+        <h1>Galeri Base Terbaik</h1>
+        <p>Ini dia kumpulan screenshot base terbaik dari anggota CMB INDO. Upload base-mu, dan dapatkan kesempatan jadi “Base of the Month”!</p>
+        <button>+ Add Image</button> <!-- Placeholder untuk upload gambar -->
+    </section>
+
+    <section id="statistik">
+        <h1>Rekap War & Statistik</h1>
+        <p>📊 Statistik war terakhir:</p>
+        <ul>
+            <li>Total bintang: ⭐ 34</li>
+            <li>Serangan terbaik: Romel (3 ⭐)</li>
+            <li>Pertahanan terbaik: Andi</li>
+        </ul>
+        <button>Tambah Gambar</button> <!-- Placeholder untuk gambar war -->
+    </section>
+
+    <section id="halloffame">
+        <h1>Hall of Fame – Anggota Teladan</h1>
+        <p>Penghargaan mingguan untuk anggota paling berkontribusi:</p>
+        <p>🏆 Minggu Ini<br>
+            Nama: Tegar<br>
+            Kontribusi: 6 bintang, hadir di semua war, motivasi tim</p>
+    </section>
+
+    <section id="join">
+        <h1>Gabung CMB INDO</h1>
+        <p>Tertarik jadi bagian dari CMB INDO? Kami selalu buka untuk pejuang aktif.</p>
+        <h3>Syarat:</h3>
+        <ul>
+            <li>TH minimal 10</li>
+            <li>Aktif war</li>
+            <li>Ramah dan tidak toxic</li>
+        </ul>
+        <p>📝 Kirim DM ke Leader: <strong>Aubie RH</strong><br>
+           Atau langsung cari clan: CMB INDO (#2GGG89V2R)</p>
+    </section>
+
+    <footer>
+        <p>&copy; 2025 CMB INDO. All Rights Reserved.</p>
+    </footer>
+</body>
+</html>
+
